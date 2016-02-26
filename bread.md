@@ -28,5 +28,5 @@ Makes two 10x20 cm^2 loaves or equivalent surface area (400 cm^2).
 6. Remove bread from the oven and allow to cool for two minutes. Transfer bread to a wire cooling rack to cool completely.
 
 ### Notes
-* The Guar gum can be substituted for Xanthan and vice versa (i.e. just use 1 Tbsp of one) but the results may not be quite as good.
+* The Guar gum can be substituted for Xanthan and vice versa (i.e. just use 1 Tbsp of one) but the dough might not hold its shape quite as well.
 * You can also make buns with this recipe, although they are a little difficult to shape. The mixture should hold its shape while rising/baking.
