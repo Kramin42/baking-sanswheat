@@ -13,8 +13,8 @@ Makes two 10x20 cm^2 loaves or equivalent surface area (400 cm^2).
 * 3 Tbsp sugar
 * 1/2 Tbsp xanthan gum
 * 1/2 Tbsp teaspoons guar gum
-* 1 teaspoon table salt
-* 3/4 teaspoon baking powder
+* 1 tsp table salt
+* 3/4 tsp baking powder
 * 3 large eggs (should come to around 150 grams)
 * 3 Tbsp oil
 * 1 Tbsp lemon juice (or 1/2 Tbsp vinegar)
