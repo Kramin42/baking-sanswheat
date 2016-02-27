@@ -1,7 +1,7 @@
 Wheat/Gluten Free Bread
 =======================
 
-Author: Cameron Dykstra
+Author: Cameron Dykstra  
 Email: dykstra.cameron@gmail.com
 
 A soft gluten free bread with minimal collapsing and no grittiness.
