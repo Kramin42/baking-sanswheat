@@ -1,7 +1,7 @@
 Wheat/Gluten Free Bread
 =======================
 
-A soft gluten free bread with minimal collapsing no grittiness.
+A soft gluten free bread with minimal collapsing and no grittiness.
 Makes two 10x20 cm^2 loaves or equivalent surface area (400 cm^2).
 
 ### Ingredients
