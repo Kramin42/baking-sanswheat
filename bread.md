@@ -15,7 +15,7 @@ Makes two 10x20 cm^2 loaves or equivalent surface area (400 cm^2).
 * 160 grams millet flour
 * 3 Tbsp sugar
 * 1/2 Tbsp xanthan gum
-* 1/2 Tbsp teaspoons guar gum
+* 1/2 Tbsp guar gum
 * 1 tsp table salt
 * 3/4 tsp baking powder
 * 3 large eggs (should come to around 150 grams)
