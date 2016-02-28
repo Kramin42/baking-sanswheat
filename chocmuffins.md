@@ -7,8 +7,8 @@ Makes 12.
 * 50 g millet flour
 * 40 g tapioca starch
 * 40 g corn starch
-* 1/2 tsp Xanthan gum
-* 1/2 tsp Guar gum
+* 1/4 tsp Xanthan gum
+* 1/4 tsp Guar gum
 * 1/4 cup (25 g) cocoa
 * 2 tsp baking powder
 * 1/2 (110 g) cup sugar
