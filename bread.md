@@ -8,7 +8,7 @@ A soft gluten free bread with minimal collapsing and no grittiness.
 Makes two 10x20 cm^2 loaves or equivalent surface area (400 cm^2).
 
 ### Ingredients
-* 300 mL warm water
+* 280 mL warm water
 * 1 packet (7 grams/ 2 teaspoons) instant/rapid rise yeast
 * 110 grams corn starch
 * 110 grams tapioca starch
